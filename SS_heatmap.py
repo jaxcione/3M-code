@@ -9,7 +9,7 @@ import warnings
 warnings.filterwarnings("ignore")
 
 """
-Project 1: SS Solution for a Parallel Plate Model
+ ANALYTIC SS Solution for a Parallel Plate Model
 Authors: Jaxon, Chuan Heng, Andrew Hickman
 
 Our Governing PDE:dC/dt+ u(y) dC/dx = D_A d²C/dy
