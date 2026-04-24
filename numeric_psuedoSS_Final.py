@@ -167,7 +167,6 @@ q_total=qb*2*ms_pp#total loading from top and bottom hence multiplication by 2 #
 #Plotting--------------------------------------------------------------------
 
 # ── Style config ────────────────────────────────────────────────────────────
-# ── Style config ─────────────────────────────────────────────────────────────
 plt.rcParams.update({
     "figure.facecolor":  "#ffffff",
     "axes.facecolor":    "#ffffff",
