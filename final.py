@@ -76,22 +76,22 @@ def black_box(T, H, t_f):
         C = np.zeros((N_x, N_y))
         beta_j = (D_A * dx) / (v_profile * dy**2)
 
-        # ---- Inlet column (i=0) ----
+        #inlet column
         rhs = np.full(N_y, C_0)
         banded = np.zeros((3, N_y))
 
         # Interior rows
         banded[1, :] = 1 + 2*beta_j
-        banded[0, 1:] = -beta_j[:-1]     # FIX: was -beta_j[1:]
-        banded[2, :-1] = -beta_j[1:]     # FIX: was -beta_j[:-1]
+        banded[0, 1:] = -beta_j[:-1]    
+        banded[2, :-1] = -beta_j[1:]     
 
-        # Bottom BC (ghost cell, consistent)
+        #boundary conditiosn
         gamma_b = (k * ms_pp * dy / D_A) * (q_e_vec(C_0) - qb[0])
-        banded[1, 0] = 1 + 2*beta_j[0]   # FIX: was 1 + beta_j[0]
-        banded[0, 1] = -2*beta_j[0]      # FIX: ghost cell doubles upper coeff at j=0
+        banded[1, 0] = 1 + 2*beta_j[0]  
+        banded[0, 1] = -2*beta_j[0]     
         rhs[0] -= 2*beta_j[0] * gamma_b
 
-        # Top BC (symmetry, dc/dy=0)
+        #top bc is the same due to sym
         banded[1, -1] = 1 + beta_j[-1]
 
         C[0] = solve_banded((1, 1), banded, rhs)
