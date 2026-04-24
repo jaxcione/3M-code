@@ -1,0 +1,52 @@
+# Title: September 2025 Contiguous U.S. Statewide Average Temperature
+# Units: Degrees Fahrenheit
+# Note: Period of Record: 131 Years
+ID,Name,Value,Rank,Anomaly (1901-2000 base period),1901-2000 Mean
+1,Alabama,75.8,89,1.1,74.7
+2,Arizona,74,105,2,72
+3,Arkansas,74.9,99,2.1,72.8
+4,California,71.4,116,2.9,68.5
+5,Colorado,59.3,92,2,57.3
+6,Connecticut,64.4,111,2.9,61.5
+7,Delaware,69.5,102,2.1,67.4
+8,Florida,80,99,0.9,79.1
+9,Georgia,74.6,74,0.1,74.5
+10,Idaho,60.7,129,6,54.7
+11,Illinois,69.2,108,3,66.2
+12,Indiana,67.6,94,1.9,65.7
+13,Iowa,66.9,116,3.9,63
+14,Kansas,70.2,88,1.6,68.6
+15,Kentucky,70.2,89,1.6,68.6
+16,Louisiana,78.8,101,1.6,77.2
+17,Maine,58,115,3.1,54.9
+18,Maryland,68.7,98,1.7,67
+19,Massachusetts,62.9,108,2.5,60.4
+20,Michigan,61.8,113,3.3,58.5
+21,Minnesota,62.5,125,5.7,56.8
+22,Mississippi,77.4,105,2.3,75.1
+23,Missouri,71.3,113,3.1,68.2
+24,Montana,61.1,130,7.3,53.8
+25,Nebraska,66.1,106,3.3,62.8
+26,Nevada,65.1,118,3.4,61.7
+27,New Hampshire,59.8,116,3.3,56.5
+28,New Jersey,68,113,3,65
+29,New Mexico,66.5,106,2,64.5
+30,New York,61.3,105,2.4,58.9
+31,North Carolina,70.1,61,-0.2,70.3
+32,North Dakota,62.4,126,6.1,56.3
+33,Ohio,66.7,96,2.2,64.5
+34,Oklahoma,74.2,85,1.1,73.1
+35,Oregon,62.7,131,5.4,57.3
+36,Pennsylvania,64.2,109,2.5,61.7
+37,Rhode Island,64.7,111,2.8,61.9
+38,South Carolina,73.5,60,-0.2,73.7
+39,South Dakota,64.8,116,4.6,60.2
+40,Tennessee,71.4,89,1.2,70.2
+41,Texas,78,112,2.1,75.9
+42,Utah,64.1,121,3.5,60.6
+43,Vermont,59,111,3,56
+44,Virginia,67.7,72,0.6,67.1
+45,Washington,63.6,131,6.7,56.9
+46,West Virginia,65.8,89,1.4,64.4
+47,Wisconsin,62.2,119,4.2,58
+48,Wyoming,58.1,125,4.5,53.6

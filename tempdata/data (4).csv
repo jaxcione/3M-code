@@ -1,0 +1,52 @@
+# Title: May 2025 Contiguous U.S. Statewide Average Temperature
+# Units: Degrees Fahrenheit
+# Note: Period of Record: 131 Years
+ID,Name,Value,Rank,Anomaly (1901-2000 base period),1901-2000 Mean
+1,Alabama,72,91,1.3,70.7
+2,Arizona,67.4,102,2.4,65
+3,Arkansas,68.5,57,-0.2,68.7
+4,California,64.5,119,3.8,60.7
+5,Colorado,52.6,76,0.8,51.8
+6,Connecticut,59,103,2.2,56.8
+7,Delaware,64.8,111,2.7,62.1
+8,Florida,79,130,3.9,75.1
+9,Georgia,72.6,100,1.6,71
+10,Idaho,52.3,110,3,49.3
+11,Illinois,61.8,54,-0.3,62.1
+12,Indiana,60.7,55,-0.6,61.3
+13,Iowa,59.6,69,-0.2,59.8
+14,Kansas,62.4,46,-1,63.4
+15,Kentucky,64.2,55,-0.2,64.4
+16,Louisiana,74.7,94,1.3,73.4
+17,Maine,52.4,99,1.9,50.5
+18,Maryland,64.6,109,2.3,62.3
+19,Massachusetts,58.2,105,2.5,55.7
+20,Michigan,53.6,63,0,53.6
+21,Minnesota,57.1,103,2.9,54.2
+22,Mississippi,72.7,93,1.4,71.3
+23,Missouri,63.3,48,-0.9,64.2
+24,Montana,53.5,113,3.3,50.2
+25,Nebraska,58.9,76,0.5,58.4
+26,Nevada,59,116,4,55
+27,New Hampshire,54.7,93,2.1,52.6
+28,New Jersey,62,102,2.2,59.8
+29,New Mexico,60.7,76,0.5,60.2
+30,New York,55.2,70,0.7,54.5
+31,North Carolina,67.6,88,1.2,66.4
+32,North Dakota,56.2,103,2.5,53.7
+33,Ohio,59.3,53,-0.7,60
+34,Oklahoma,67.2,44,-0.8,68
+35,Oregon,53.2,109,2.7,50.5
+36,Pennsylvania,58.1,65,0.5,57.6
+37,Rhode Island,59.2,117,3.1,56.1
+38,South Carolina,71.3,83,1,70.3
+39,South Dakota,57,91,1,56
+40,Tennessee,66.5,72,0.4,66.1
+41,Texas,74.2,105,1.7,72.5
+42,Utah,58,112,3.3,54.7
+43,Vermont,53.9,89,1.7,52.2
+44,Virginia,64.3,85,1.1,63.2
+45,Washington,53.3,95,1.5,51.8
+46,West Virginia,60.5,62,0,60.5
+47,Wisconsin,55,68,0.4,54.6
+48,Wyoming,50.7,105,2.3,48.4
